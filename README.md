@@ -1,2 +1,2 @@
 # flask_pocket
- Flask extension to integrate PocketBase
+Flask extension to integrate PocketBase

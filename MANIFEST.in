@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+recursive-include flask_pocket *
+recursive-include examples *

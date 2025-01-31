@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="flask-pocket",
-    version="1.0.1", 
+    version="1.0.2", 
     py_modules=["flask_pocket"],
     packages=find_packages(),
     include_package_data=True,

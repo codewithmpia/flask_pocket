@@ -72,7 +72,8 @@ class FlaskPocket:
     """
     def __init__(self, app=None):
         self.client = None
-        self.ClientResponseError = ClientResponseError  # Rendre l'exception accessible
+        # Rendre l'exception accessible
+        self.ClientResponseError = ClientResponseError  
         if app is not None:
             self.init_app(app)
 

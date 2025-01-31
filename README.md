@@ -5,7 +5,7 @@ FlaskPocket is a Flask extension that integrates PocketBase, a backend service.
 ## Prerequisites
 
 - [PocketBase](https://pocketbase.io/)
-- [PocketBase Python SDK](https://github.com/pocketbase/pocketbase-python-sdk)
+- [PocketBase Python SDK](https://github.com/vaphes/pocketbase)
 
 ## Installation
 
